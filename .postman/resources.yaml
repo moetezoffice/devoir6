@@ -1,6 +1,0 @@
-workspace:
-  id: df616dec-f291-4647-b61f-be5ac0e73f31
-  name: devoir1
-
-# Each entry here maps a local resource to one or more corresponding objects in Postman Cloud
-cloudResources: { globals: { ../postman/globals/workspace.globals.yaml: c1bcd216-d929-4dc6-819b-dead9f774eb9 } }
